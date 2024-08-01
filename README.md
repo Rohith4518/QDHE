@@ -1,4 +1,3 @@
-**QDHE - Quadrants Dynamic Histogram Equalization **
-________________________________________________________________________________________________________________________________
-     It is a image contrast enhancement technique used for enhancing images taken in low light or dull environment
-     
+**QDHE-Quadrants Dynamic Histogram Equalization**
+____________________________________________________________________________________
+QDHE is a image contrast enhancement technique used to enhance the images take in low light or dull environment for producing better images as Output. 
